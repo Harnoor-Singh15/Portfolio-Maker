@@ -13,7 +13,9 @@ Minimal CLI tool to auto-generate personal portfolios from user inputs, without 
 - ## 🎯 Why I Made This Project?
 
 The purpose behind creating this project was to simplify the process of generating a basic personal portfolio through a command-line interface.
+
 Many individuals, especially students or early-stage professionals, often struggle with where and how to begin when crafting their first portfolio.
+
 This tool asks a few essential questions and instantly generates a structured, text-based portfolio summary.
 
 It serves as a lightweight, no-dependency solution for quick personal introductions or offline documentation needs. 
